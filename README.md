@@ -5,6 +5,8 @@ A modern and responsive online learning platform built with React, Vite, and Tai
 This project allows users to browse courses, search for specific topics, filter courses by category, and save their favorite courses through an interactive and user-friendly interface.
 
 ---
+## live Demo
+https://avin-sp.github.io/my-courses/
 
 ##  Features
 
